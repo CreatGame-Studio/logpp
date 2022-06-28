@@ -1,6 +1,6 @@
 CXX = g++
 OUT = prog.exe
-CXX_FLAGS = -std=c++20 -Wall -Wextra -pedantic -Wno-unused-parameter
+CXX_FLAGS = -std=c++20 -Wall -Wextra -pedantic -Wno-unused-parameter -O3
 LD_FLAGS = 
 
 
